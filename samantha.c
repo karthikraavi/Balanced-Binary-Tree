@@ -1,5 +1,6 @@
 //In this code we are assuming that a sorted array is already formed from an unbalanced tree
-
+# include <stdio.h>
+# include <stdlib.h>
 
 struct node {
 	int x;
